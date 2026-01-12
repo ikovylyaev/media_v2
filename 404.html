@@ -1,0 +1,14 @@
+---
+layout: page
+title: Ошибка 404
+
+lang: en
+text-title: Страница не найдена
+text-description: Запрашиваемая страница не существует
+---
+
+<div style="min-height: calc(100vh - 350px)">
+	<h3>{{ page.text-title }}</h3>
+	<p>{{ page.text-description }}</p>
+	<p><a href="{{site.url}}/" class="btn btn-dark" style="margin-right: 25px;">Главная</a><a onClick="window.history.back();" class="btn btn-outline-light">Назад</a></p>
+</div>

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Иткуль"
+date:   2020-01-07 20:00:00 +0500
+categories: ural
+number: 6
+video: VI7l4mLgvfU
+---

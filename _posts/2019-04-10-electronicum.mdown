@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "электроникум"
+date:   2019-04-10 20:00:00 +0500
+categories: video
+number: 3
+video: _E2ZngNB-o4
+---

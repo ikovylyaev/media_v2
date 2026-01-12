@@ -1,0 +1,64 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="author" content="IKovylyaev">
+    <meta name="yandex-verification" content="743466c05a8e5d2d" />
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ site.url }}/img/icon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ site.url }}/img/icon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}/img/icon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}/img/icon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}/img/icon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}/img/icon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.url }}/img/icon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}/img/icon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/img/icon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="{{ site.url }}/img/icon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/img/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ site.url }}/img/icon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/img/icon/favicon-16x16.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <link rel="manifest" href="{{ site.url }}/img/icon/manifest.json">
+    <meta name="msapplication-TileImage" content="{{ site.url }}/img/icon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <title>{{ page.title }}</title>
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="kovylyaevmedia repo">
+    <meta name="description" content="photo and video repo">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://ikovylyaev.com/">
+    <meta property="og:title" content="kovylyaevmedia repo">
+    <meta property="og:description" content="photo and video repo">
+    <meta property="og:image" content="{{ site.url }}/img/back.png">
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="http://ikovylyaev.com/">
+    <meta property="twitter:title" content="kovylyaevmedia repo">
+    <meta property="twitter:description" content="photo and video repo">
+    <meta property="twitter:image" content="{{ site.url }}/img/back.png">
+    <link href="{{ site.url }}/css/bootstrap.css" rel="stylesheet">
+    <link href="{{ site.url }}/css/main.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+
+  </head>
+
+  <body>
+    <div id="loader" style="position: fixed; top: 0px; right: 0px; width: 100%; height: 100%; background: #fff; z-index: 3000"></div>
+    {{ content }}
+    
+    <script src="{{ site.url }}/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+      $(document).ready(function() {
+        $("#loader").fadeOut(1000);
+      });
+</script>
+
+  
+  
+</nav>
+  </body>
+</html>

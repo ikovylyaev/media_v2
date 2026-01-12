@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "worldskills-russia южно-сахалинск"
+date:   2020-09-04 20:00:00 +0500
+categories: video
+number: 15
+video: 4PS-sbkfXoM
+---

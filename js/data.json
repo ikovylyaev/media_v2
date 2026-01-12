@@ -1,0 +1,3326 @@
+{
+  "photo": [
+    {
+      "id": 0,
+      "year": "2015",
+      "month": "09",
+      "day": "01",
+      "name": "1 сентября 2015",
+      "link": "https://yadi.sk/d/EedkcCzdpESzYg",
+      "date": "01.09.2015",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 1,
+      "year": "2017",
+      "month": "09",
+      "day": "04",
+      "name": "1 сентября 2017",
+      "link": "https://yadi.sk/d/R5TWMySJFspOvQ",
+      "date": "04.09.2017",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 2,
+      "year": "2018",
+      "month": "09",
+      "day": "04",
+      "name": "1 сентября 2018",
+      "link": "https://yadi.sk/d/WChuT2OT5qLBzQ",
+      "date": "04.09.2018",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 3,
+      "year": "2018",
+      "month": "05",
+      "day": "05",
+      "name": "4 мая 2018",
+      "link": "https://yadi.sk/d/B-egEmifPnPBKg",
+      "date": "05.05.2018",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 4,
+      "year": "2016",
+      "month": "05",
+      "day": "05",
+      "name": "5 мая 2016",
+      "link": "https://yadi.sk/d/R_KOgPKL_7FNvQ",
+      "date": "05.05.2016",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 5,
+      "year": "2016",
+      "month": "10",
+      "day": "05",
+      "name": "День учителя 2016",
+      "link": "https://yadi.sk/d/cgI7ryXscoTWhA",
+      "date": "05.10.2016",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 6,
+      "year": "2017",
+      "month": "10",
+      "day": "08",
+      "name": "День Героев Отчизны 2017",
+      "link": "https://yadi.sk/d/rpzC4wsuZQgh_g",
+      "date": "08.10.2017",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 7,
+      "year": "2016",
+      "month": "12",
+      "day": "08",
+      "name": "День Героев Отчизны 2016",
+      "link": "https://yadi.sk/d/0vzxMQgARk1g1w",
+      "date": "08.12.2016",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 8,
+      "year": "2017",
+      "month": "03",
+      "day": "09",
+      "name": "8 марта 2017",
+      "link": "https://yadi.sk/d/GMRnvaczLZCBxg",
+      "date": "09.03.2017",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 9,
+      "year": "2017",
+      "month": "05",
+      "day": "09",
+      "name": "9 мая 2017",
+      "link": "https://yadi.sk/d/JOjD-2YBlW-ymQ",
+      "date": "09.05.2017",
+      "common": true,
+      "coordinates": [
+        60.60507,
+        56.838483
+      ]
+    },
+    {
+      "id": 10,
+      "year": "2018",
+      "month": "05",
+      "day": "09",
+      "name": "9 мая 2018",
+      "link": "https://yadi.sk/d/3_mhGlCDnsARPg",
+      "date": "09.05.2018",
+      "common": true,
+      "coordinates": [
+        60.60507,
+        56.838483
+      ]
+    },
+    {
+      "id": 11,
+      "year": "2017",
+      "month": "02",
+      "day": "10",
+      "name": "Прогулка 10.02.2017",
+      "link": "https://yadi.sk/d/35f5bauLM9pXxw",
+      "date": "11.02.2017",
+      "common": false,
+      "coordinates": [
+        60.573739,
+        56.896227
+      ]
+    },
+    {
+      "id": 12,
+      "year": "2017",
+      "month": "08",
+      "day": "24",
+      "name": "Деревня 19-20.08.2017",
+      "link": "https://yadi.sk/d/H3FzW4-diw-DEA",
+      "date": "24.08.2017",
+      "common": false,
+      "coordinates": [
+        59.320771,
+        57.229946
+      ]
+    },
+    {
+      "id": 13,
+      "year": "2017",
+      "month": "02",
+      "day": "24",
+      "name": "23 Февраля 2017",
+      "link": "https://yadi.sk/d/KAe-Sis4gNDDAQ",
+      "date": "24.02.2017",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 14,
+      "year": "2017",
+      "month": "10",
+      "day": "28",
+      "name": "28.10.2017 Прогулка",
+      "link": "https://yadi.sk/d/AistaQRPnW93OQ",
+      "date": "28.10.2017",
+      "common": false,
+      "coordinates": [
+        60.825167,
+        56.915583
+      ]
+    },
+    {
+      "id": 15,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Екатеринбург",
+      "link": "https://yadi.sk/d/HIbydN6etAztzA",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        60.604267,
+        56.844017
+      ]
+    },
+    {
+      "id": 16,
+      "year": "2016",
+      "month": "05",
+      "day": "09",
+      "name": "9 мая 2016",
+      "link": "https://yadi.sk/d/xtYZUOJwC8aG1Q",
+      "date": "09.05.2016",
+      "common": true,
+      "coordinates": [
+        60.60507,
+        56.838483
+      ]
+    },
+    {
+      "id": 17,
+      "year": "2019",
+      "month": "01",
+      "day": "07",
+      "name": "Аракуль",
+      "link": "https://yadi.sk/d/Q6dyFxCbA9BWpw",
+      "date": "07.01.2019",
+      "common": false,
+      "coordinates": [
+        60.488724,
+        55.98692
+      ]
+    },
+    {
+      "id": 18,
+      "year": "2018",
+      "month": "04",
+      "day": "06",
+      "name": "Азов",
+      "link": "https://yadi.sk/d/u2HZ5BMnKrBduQ",
+      "date": "06.04.2018",
+      "common": false,
+      "coordinates": [
+        60.084749,
+        56.474024
+      ]
+    },
+    {
+      "id": 19,
+      "year": "2017",
+      "month": "07",
+      "day": "06",
+      "name": "Белоруссия",
+      "link": "https://yadi.sk/d/U5rdobyeetOZ1Q",
+      "date": "06.07.2017",
+      "common": true,
+      "coordinates": [
+        27.558097,
+        53.905108
+      ]
+    },
+    {
+      "id": 20,
+      "year": "2018",
+      "month": "10",
+      "day": "07",
+      "name": "День Учителя 2018",
+      "link": "https://yadi.sk/d/fzOZdSRs1Fz2VA",
+      "date": "07.10.2018",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 21,
+      "year": "2017",
+      "month": "07",
+      "day": "31",
+      "name": "Деревня ",
+      "link": "https://yadi.sk/d/paslFBaq9uCqrg",
+      "date": "31.07.2017",
+      "common": false,
+      "coordinates": [
+        59.320771,
+        57.229946
+      ]
+    },
+    {
+      "id": 22,
+      "year": "2018",
+      "month": "10",
+      "day": "01",
+      "name": "Казань 2018",
+      "link": "https://yadi.sk/d/LkPJ7TcyzO0KYw",
+      "date": "01.10.2018",
+      "common": false,
+      "coordinates": [
+        49.10592,
+        55.800484
+      ]
+    },
+    {
+      "id": 23,
+      "year": "2017",
+      "month": "08",
+      "day": "10",
+      "name": "Оленьи ручьи 2017",
+      "link": "https://yadi.sk/d/lRK_Dk_dapEwxw",
+      "date": "10.08.2017",
+      "common": false,
+      "coordinates": [
+        59.228961,
+        56.52299
+      ]
+    },
+    {
+      "id": 24,
+      "year": "2018",
+      "month": "05",
+      "day": "06",
+      "name": "ПетроГром 06.05.2018",
+      "link": "https://yadi.sk/d/aXlziSFF0n2erA",
+      "date": "06.05.2018",
+      "common": false,
+      "coordinates": [
+        60.337441,
+        56.996762
+      ]
+    },
+    {
+      "id": 25,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Фото1",
+      "link": "https://yadi.sk/d/kFiwbiGU8O6XpQ",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        60.629652,
+        56.901985
+      ]
+    },
+    {
+      "id": 26,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Фото2",
+      "link": "https://yadi.sk/d/vuMeQB1r2TuUwg",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        60.559038,
+        56.8988
+      ]
+    },
+    {
+      "id": 27,
+      "year": "2018",
+      "month": "05",
+      "day": "25",
+      "name": "Последний звонок",
+      "link": "https://yadi.sk/d/Wf2gkaFtVRaw0g",
+      "date": "25.05.2018",
+      "common": true,
+      "coordinates": [
+        60.609595,
+        57.083198
+      ]
+    },
+    {
+      "id": 28,
+      "year": "2017",
+      "month": "05",
+      "day": "26",
+      "name": "Щенки",
+      "link": "https://yadi.sk/d/mrxUHWBK7tvM_Q",
+      "date": "26.05.2017",
+      "common": false,
+      "coordinates": [
+        60.620955,
+        56.906717
+      ]
+    },
+    {
+      "id": 29,
+      "year": "2017",
+      "month": "06",
+      "day": "17",
+      "name": "Щенки 14.06",
+      "link": "https://yadi.sk/d/Hyv3NjU-OfAlfQ",
+      "date": "14.06.2017",
+      "common": false,
+      "coordinates": [
+        60.620955,
+        56.906717
+      ]
+    },
+    {
+      "id": 30,
+      "year": "2017",
+      "month": "05",
+      "day": "27",
+      "name": "Ревун 2017",
+      "link": "https://yadi.sk/d/zRRN_USndBttPg",
+      "date": "27.05.2017",
+      "common": false,
+      "coordinates": [
+        61.604798,
+        56.433215
+      ]
+    },
+    {
+      "id": 31,
+      "year": "2018",
+      "month": "05",
+      "day": "12",
+      "name": "Ревун 2018",
+      "link": "https://yadi.sk/d/LBeGEjzNd_T1kw",
+      "date": "12.05.2018",
+      "common": false,
+      "coordinates": [
+        61.604798,
+        56.433215
+      ]
+    },
+    {
+      "id": 32,
+      "year": "2017",
+      "month": "06",
+      "day": "07",
+      "name": "Прогулка 07.06.2017",
+      "link": "https://yadi.sk/d/5zJu35jBUqZcgg",
+      "date": "07.06.2017",
+      "common": false,
+      "coordinates": [
+        60.655978,
+        56.913233
+      ]
+    },
+    {
+      "id": 33,
+      "year": "2017",
+      "month": "07",
+      "day": "25",
+      "name": "Сплав Ай",
+      "link": "https://yadi.sk/d/8JY633IcIg1adg",
+      "date": "25.07.2017",
+      "common": false,
+      "coordinates": [
+        58.73002,
+        55.152976
+      ]
+    },
+    {
+      "id": 34,
+      "year": "2018",
+      "month": "09",
+      "day": "17",
+      "name": "Сплавы 2018 + Сахалин ",
+      "link": "https://yadi.sk/d/x4MdDWFzIInxCA",
+      "date": "17.09.2018",
+      "common": false,
+      "coordinates": [
+        142.727495,
+        46.957572
+      ]
+    },
+    {
+      "id": 35,
+      "year": "2017",
+      "month": "06",
+      "day": "12",
+      "name": "Таганай",
+      "link": "https://yadi.sk/d/3-oOKc7LARN-0g",
+      "date": "12.06.2017",
+      "common": false,
+      "coordinates": [
+        59.7321,
+        55.221695
+      ]
+    },
+    {
+      "id": 36,
+      "year": "2018",
+      "month": "03",
+      "day": "01",
+      "name": "Тургояк",
+      "link": "https://yadi.sk/d/vRqAHNI5jVd__Q",
+      "date": "01.03.2018",
+      "common": false,
+      "coordinates": [
+        60.086228,
+        55.158382
+      ]
+    },
+    {
+      "id": 37,
+      "year": "2018",
+      "month": "06",
+      "day": "29",
+      "name": "Выпускной",
+      "link": "https://yadi.sk/d/ttfq5LsMxPHVNQ",
+      "date": "29.06.2018",
+      "common": true,
+      "coordinates": [
+        60.616161,
+        56.9322
+      ]
+    },
+    {
+      "id": 38,
+      "year": "2018",
+      "month": "02",
+      "day": "17",
+      "name": "WorldSkills Ekb 2018",
+      "link": "https://yadi.sk/d/k522YqsVSrhAJw",
+      "date": "17.02.2018",
+      "common": true,
+      "coordinates": [
+        60.591909,
+        56.844279
+      ]
+    },
+    {
+      "id": 39,
+      "year": "2018",
+      "month": "02",
+      "day": "17",
+      "name": "АгитБригада",
+      "link": "https://yadi.sk/d/XeqCs7kD8t-H1w",
+      "date": "17.02.2018",
+      "common": true,
+      "coordinates": [
+        60.636551,
+        56.905902
+      ]
+    },
+    {
+      "id": 40,
+      "year": "2017",
+      "month": "10",
+      "day": "02",
+      "name": "Вьюга",
+      "link": "https://yadi.sk/d/eDcceIz7Skv-DA",
+      "date": "02.10.2017",
+      "common": false,
+      "coordinates": [
+        60.702088,
+        56.848374
+      ]
+    },
+    {
+      "id": 41,
+      "year": "2016",
+      "month": "12",
+      "day": "18",
+      "name": "День Героев Отчизны 2016",
+      "link": "https://yadi.sk/d/lUFhCjH1gHzFSg",
+      "date": "18.12.2016",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 42,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Гилева + Ревун",
+      "link": "https://yadi.sk/d/tFchnxvPWF1hUA",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        61.253248,
+        56.59777
+      ]
+    },
+    {
+      "id": 43,
+      "year": "2016",
+      "month": "02",
+      "day": "24",
+      "name": "День Защитников Отечества 2016",
+      "link": "https://yadi.sk/d/Ori0Jd66vfalag",
+      "date": "24.02.2016",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 44,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "День Учителя 2016",
+      "link": "https://yadi.sk/d/g1Pt8DfWleptfg",
+      "date": "17.10.2016",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 45,
+      "year": "2017",
+      "month": "01",
+      "day": "06",
+      "name": "Деревня зима",
+      "link": "https://yadi.sk/d/ing4dsP3wk-qpA",
+      "date": "06.01.2017",
+      "common": false,
+      "coordinates": [
+        59.353108,
+        57.193504
+      ]
+    },
+    {
+      "id": 46,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Деревня лето",
+      "link": "https://yadi.sk/d/g3JpQ8Dst3wvaQ",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        59.329805,
+        57.228331
+      ]
+    },
+    {
+      "id": 47,
+      "year": "2016",
+      "month": "11",
+      "day": "05",
+      "name": "Зима",
+      "link": "https://yadi.sk/d/4yhuKO2XU9idNA",
+      "date": "05.11.2016",
+      "common": false,
+      "coordinates": [
+        60.65249,
+        56.895433
+      ]
+    },
+    {
+      "id": 48,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Изображения",
+      "link": "https://yadi.sk/d/pt9dEs3oJfqu5Q",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        60.916151,
+        56.593857
+      ]
+    },
+    {
+      "id": 49,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Казань",
+      "link": "https://yadi.sk/d/rNu5SC9xCPuehg",
+      "date": "17.10.2016",
+      "common": true,
+      "coordinates": [
+        49.100416,
+        55.797383
+      ]
+    },
+    {
+      "id": 50,
+      "year": "2016",
+      "month": "02",
+      "day": "20",
+      "name": "23 февраля 2016",
+      "link": "https://yadi.sk/d/v2z6QhIBbV-zHg",
+      "date": "20.02.2016",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 51,
+      "year": "2017",
+      "month": "03",
+      "day": "19",
+      "name": "Соревнования КСК 'Белая Лошадь'",
+      "link": "https://yadi.sk/d/4xh1L5I0m6Cmgw",
+      "date": "19.03.2017",
+      "common": false,
+      "coordinates": [
+        60.916151,
+        56.593857
+      ]
+    },
+    {
+      "id": 52,
+      "year": "2017",
+      "month": "05",
+      "day": "01",
+      "name": "Ирбит",
+      "link": "https://yadi.sk/d/vACUIxAG-3IP1g",
+      "date": "01.05.2017",
+      "common": false,
+      "coordinates": [
+        63.051462,
+        57.686471
+      ]
+    },
+    {
+      "id": 53,
+      "year": "2016",
+      "month": "11",
+      "day": "07",
+      "name": "Каменный остров",
+      "link": "https://yadi.sk/d/5EHE2DZLbuBgrw",
+      "date": "07.11.2016",
+      "common": false,
+      "coordinates": [
+        60.413395,
+        56.894159
+      ]
+    },
+    {
+      "id": 54,
+      "year": "2016",
+      "month": "11",
+      "day": "14",
+      "name": "Катание",
+      "link": "https://yadi.sk/d/4LL-RfFT6-PqIw",
+      "date": "14.11.2016",
+      "common": false,
+      "coordinates": [
+        60.573778,
+        56.911082
+      ]
+    },
+    {
+      "id": 55,
+      "year": "2016",
+      "month": "12",
+      "day": "20",
+      "name": "Квест",
+      "link": "https://yadi.sk/d/1g-gwoBZP_UqZg",
+      "date": "20.12.2016",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 56,
+      "year": "2017",
+      "month": "11",
+      "day": "21",
+      "name": "Коуровка + Чертово городище",
+      "link": "https://yadi.sk/d/JC0HJb0REFcDpw",
+      "date": "21.11.2017",
+      "common": true,
+      "coordinates": [
+        59.547581,
+        57.036141
+      ]
+    },
+    {
+      "id": 57,
+      "year": "2019",
+      "month": "02",
+      "day": "22",
+      "name": "Военно-спортивная эстафета",
+      "link": "https://yadi.sk/d/8l9bJU0jKcLnLg",
+      "date": "22.02.2019",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 58,
+      "year": "2019",
+      "month": "02",
+      "day": "21",
+      "name": "Встреча 21.02.2019",
+      "link": "https://yadi.sk/d/S6rO_H-GtQVQFg",
+      "date": "21.02.2019",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 59,
+      "year": "2019",
+      "month": "01",
+      "day": "08",
+      "name": "ПетроГром 08.01.2019",
+      "link": "https://yadi.sk/d/n4P75prPU-onPw",
+      "date": "08.01.2019",
+      "common": false,
+      "coordinates": [
+        60.336729,
+        56.996832
+      ]
+    },
+    {
+      "id": 60,
+      "year": "2019",
+      "month": "03",
+      "day": "08",
+      "name": "8 марта 2019",
+      "link": "https://yadi.sk/d/U5Ro9M3yu-Sg2Q",
+      "date": "08.03.2019",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 61,
+      "year": "2017",
+      "month": "10",
+      "day": "08",
+      "name": "МК Букет",
+      "link": "https://yadi.sk/d/tZiqo8PkejLM-g",
+      "date": "08.10.2017",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 62,
+      "year": "2018",
+      "month": "04",
+      "day": "22",
+      "name": "Москва WSR_OS_2018",
+      "link": "https://yadi.sk/d/4vS6udv9M9_HTA",
+      "date": "22.04.2018",
+      "common": false,
+      "coordinates": [
+        37.721058,
+        55.708902
+      ]
+    },
+    {
+      "id": 63,
+      "year": "2017",
+      "month": "03",
+      "day": "22",
+      "name": "МК Мыло",
+      "link": "https://yadi.sk/d/e3rUKhQO52JrbA",
+      "date": "22.03.2017",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 64,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Ночь музеев",
+      "link": "https://yadi.sk/d/mh0CQjFEkOe0Ww",
+      "date": "17.10.2016",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 65,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Облака",
+      "link": "https://yadi.sk/d/TAUBwMHa6nXShg",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        58.415246,
+        56.328255
+      ]
+    },
+    {
+      "id": 66,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Оленьи ручьи",
+      "link": "https://yadi.sk/d/9ObgLru-zfDcMQ",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        59.228961,
+        56.52299
+      ]
+    },
+    {
+      "id": 67,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Осень",
+      "link": "https://yadi.sk/d/qhcVBPh9Z9BSbQ",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        60.679858,
+        56.913273
+      ]
+    },
+    {
+      "id": 68,
+      "year": "2016",
+      "month": "10",
+      "day": "27",
+      "name": "Прогулка 27.10.2016",
+      "link": "https://yadi.sk/d/driNHYV3kVBlog",
+      "date": "27.10.2016",
+      "common": false,
+      "coordinates": [
+        60.679858,
+        56.913273
+      ]
+    },
+    {
+      "id": 69,
+      "year": "2017",
+      "month": "02",
+      "day": "15",
+      "name": "Прогулка зима",
+      "link": "https://yadi.sk/d/19AxXsJJX9Eilg",
+      "date": "15.02.2017",
+      "common": false,
+      "coordinates": [
+        60.654178,
+        56.89749
+      ]
+    },
+    {
+      "id": 70,
+      "year": "2016",
+      "month": "12",
+      "day": "01",
+      "name": "Профориентация аниматор",
+      "link": "https://yadi.sk/d/0W0LYPtn3zP3Eg",
+      "date": "01.12.2016",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 71,
+      "year": "2017",
+      "month": "10",
+      "day": "17",
+      "name": "Сайсанова",
+      "link": "https://yadi.sk/d/6Odim2s_kAZoDA",
+      "date": "17.10.2017",
+      "common": false,
+      "coordinates": [
+        60.548348,
+        56.903943
+      ]
+    },
+    {
+      "id": 72,
+      "year": "2017",
+      "month": "10",
+      "day": "17",
+      "name": "Самолеты Кольцово",
+      "link": "https://yadi.sk/d/NUCtw5GmpMXXuA",
+      "date": "17.10.2017",
+      "common": false,
+      "coordinates": [
+        60.841417,
+        56.744744
+      ]
+    },
+    {
+      "id": 73,
+      "year": "2017",
+      "month": "10",
+      "day": "17",
+      "name": "Саян",
+      "link": "https://yadi.sk/d/HiMMpw1IwJpB3g",
+      "date": "17.10.2017",
+      "common": false,
+      "coordinates": [
+        60.679021,
+        56.914293
+      ]
+    },
+    {
+      "id": 74,
+      "year": "2016",
+      "month": "11",
+      "day": "02",
+      "name": "Семь Братьев",
+      "link": "https://yadi.sk/d/eRUAuVOZEI45Lg",
+      "date": "02.11.2016",
+      "common": false,
+      "coordinates": [
+        60.231513,
+        57.240842
+      ]
+    },
+    {
+      "id": 75,
+      "year": "2015",
+      "month": "12",
+      "day": "23",
+      "name": "Серпантин 7В",
+      "link": "https://yadi.sk/d/E_kulZudzcTq0g",
+      "date": "23.12.2015",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 76,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Сидорова",
+      "link": "https://yadi.sk/d/t9y0S3rR8tESHQ",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        60.678013,
+        56.91619
+      ]
+    },
+    {
+      "id": 77,
+      "year": "2016",
+      "month": "05",
+      "day": "12",
+      "name": "Нижняя Синячиха",
+      "link": "https://yadi.sk/d/s42wT2lZ09Zi0Q",
+      "date": "12.05.2016",
+      "common": true,
+      "coordinates": [
+        61.765782,
+        57.947415
+      ]
+    },
+    {
+      "id": 78,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Нижняя Синячиха + Арамашево",
+      "link": "https://yadi.sk/d/Y1riCGdA8daz9Q",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        61.765782,
+        57.947415
+      ]
+    },
+    {
+      "id": 79,
+      "year": "2017",
+      "month": "04",
+      "day": "01",
+      "name": "Собаки прогулка",
+      "link": "https://yadi.sk/d/cg4PcSDAZupXlg",
+      "date": "01.04.2017",
+      "common": false,
+      "coordinates": [
+        60.661119,
+        56.914059
+      ]
+    },
+    {
+      "id": 80,
+      "year": "2017",
+      "month": "10",
+      "day": "17",
+      "name": "Сортировка",
+      "link": "https://yadi.sk/d/e9i-Uh-CDMJMnw",
+      "date": "17.10.2017",
+      "common": false,
+      "coordinates": [
+        60.449966,
+        56.982018
+      ]
+    },
+    {
+      "id": 81,
+      "year": "2017",
+      "month": "10",
+      "day": "17",
+      "name": "Среднеуральск",
+      "link": "https://yadi.sk/d/RFUbdEv_XuNblQ",
+      "date": "17.10.2017",
+      "common": false,
+      "coordinates": [
+        60.449966,
+        56.982018
+      ]
+    },
+    {
+      "id": 82,
+      "year": "2017",
+      "month": "10",
+      "day": "17",
+      "name": "Старая Линза",
+      "link": "https://yadi.sk/d/iCcfHyORcuPgZw",
+      "date": "17.10.2017",
+      "common": false,
+      "coordinates": [
+        60.606073,
+        56.625696
+      ]
+    },
+    {
+      "id": 83,
+      "year": "2016",
+      "month": "11",
+      "day": "05",
+      "name": "Старопышминск",
+      "link": "https://yadi.sk/d/YSXDbzQVeuzolA",
+      "date": "05.11.2016",
+      "common": false,
+      "coordinates": [
+        60.901409,
+        56.932426
+      ]
+    },
+    {
+      "id": 84,
+      "year": "2017",
+      "month": "09",
+      "day": "21",
+      "name": "Старопышминск + Тальков Камень",
+      "link": "https://yadi.sk/d/L0m42IcskxcFFQ",
+      "date": "21.09.2017",
+      "common": false,
+      "coordinates": [
+        60.901409,
+        56.932426
+      ]
+    },
+    {
+      "id": 85,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Тальков Камень",
+      "link": "https://yadi.sk/d/3jI2XkwPhcJeJA",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        60.736304,
+        56.507241
+      ]
+    },
+    {
+      "id": 86,
+      "year": "2016",
+      "month": "12",
+      "day": "17",
+      "name": "Татищевские чтения",
+      "link": "https://yadi.sk/d/OtER3Pmj1O1cjQ",
+      "date": "17.12.2016",
+      "common": true,
+      "coordinates": [
+        60.650331,
+        56.850329
+      ]
+    },
+    {
+      "id": 87,
+      "year": "2017",
+      "month": "03",
+      "day": "10",
+      "name": "Теплая + Саян",
+      "link": "https://yadi.sk/d/ciFxRHVl28DsyQ",
+      "date": "10.03.2017",
+      "common": false,
+      "coordinates": [
+        59.884995,
+        56.946357
+      ]
+    },
+    {
+      "id": 88,
+      "year": "2017",
+      "month": "05",
+      "day": "01",
+      "name": "Технопарк",
+      "link": "https://yadi.sk/d/C5FI5iMsgFu0SA",
+      "date": "01.05.2017",
+      "common": true,
+      "coordinates": [
+        60.79179,
+        56.834543
+      ]
+    },
+    {
+      "id": 89,
+      "year": "2017",
+      "month": "02",
+      "day": "15",
+      "name": "ТТУ",
+      "link": "https://yadi.sk/d/7P1XKNdYG6LFqQ",
+      "date": "15.02.2017",
+      "common": true,
+      "coordinates": [
+        60.6132,
+        56.813527
+      ]
+    },
+    {
+      "id": 90,
+      "year": "2014",
+      "month": "09",
+      "day": "17",
+      "name": "Турслет 2014",
+      "link": "https://yadi.sk/d/q9qxTZ83iK0JDw",
+      "date": "17.09.2014",
+      "common": true,
+      "coordinates": [
+        60.651828,
+        56.911475
+      ]
+    },
+    {
+      "id": 91,
+      "year": "2015",
+      "month": "09",
+      "day": "09",
+      "name": "Турслет 7В",
+      "link": "https://yadi.sk/d/4SUb0OQKeWLb2g",
+      "date": "09.09.2015",
+      "common": true,
+      "coordinates": [
+        60.651828,
+        56.911475
+      ]
+    },
+    {
+      "id": 92,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Тюлюк",
+      "link": "https://yadi.sk/d/i33qFNaoIWOurg",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        58.773029,
+        54.610699
+      ]
+    },
+    {
+      "id": 93,
+      "year": "2017",
+      "month": "01",
+      "day": "20",
+      "name": "УГМК",
+      "link": "https://yadi.sk/d/dExxLV13ZiGBUA",
+      "date": "20.01.2017",
+      "common": true,
+      "coordinates": [
+        60.581754,
+        56.963445
+      ]
+    },
+    {
+      "id": 94,
+      "year": "2017",
+      "month": "10",
+      "day": "09",
+      "name": "Хрустальная 2017",
+      "link": "https://yadi.sk/d/eAXpq2ROqQB7lA",
+      "date": "09.10.2017",
+      "common": true,
+      "coordinates": [
+        60.17494,
+        56.857668
+      ]
+    },
+    {
+      "id": 95,
+      "year": "2016",
+      "month": "10",
+      "day": "09",
+      "name": "Хрустальная 2016",
+      "link": "https://yadi.sk/d/chEZjQ9znDA8_g",
+      "date": "17.10.2016",
+      "common": true,
+      "coordinates": [
+        60.17494,
+        56.857668
+      ]
+    },
+    {
+      "id": 96,
+      "year": "2014",
+      "month": "05",
+      "day": "18",
+      "name": "Хрустальная 5 класс",
+      "link": "https://yadi.sk/d/chEZjQ9znDA8_g",
+      "date": "18.05.2014",
+      "common": true,
+      "coordinates": [
+        60.17494,
+        56.857668
+      ]
+    },
+    {
+      "id": 97,
+      "year": "2017",
+      "month": "02",
+      "day": "19",
+      "name": "Чертово городище",
+      "link": "https://yadi.sk/d/u8uPpvwAulHh1w",
+      "date": "19.02.2017",
+      "common": false,
+      "coordinates": [
+        60.344031,
+        56.941101
+      ]
+    },
+    {
+      "id": 98,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Чусовая",
+      "link": "https://yadi.sk/d/SvXfUmf3DVSWiQ",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        58.975555,
+        57.649835
+      ]
+    },
+    {
+      "id": 99,
+      "year": "2016",
+      "month": "10",
+      "day": "17",
+      "name": "Шарташ",
+      "link": "https://yadi.sk/d/q-7LTXgxOfzG7Q",
+      "date": "17.10.2016",
+      "common": false,
+      "coordinates": [
+        60.709657,
+        56.862061
+      ]
+    },
+    {
+      "id": 100,
+      "year": "2018",
+      "month": "01",
+      "day": "05",
+      "name": "Шунут + Слобода",
+      "link": "https://yadi.sk/d/OeLsAKhnv1HdYw",
+      "date": "05.01.2018",
+      "common": false,
+      "coordinates": [
+        59.73498,
+        56.523862
+      ]
+    },
+    {
+      "id": 101,
+      "year": "2017",
+      "month": "04",
+      "day": "05",
+      "name": "Экскурсия оружие",
+      "link": "https://yadi.sk/d/QWWeL4UvU27SkQ",
+      "date": "05.04.2017",
+      "common": true,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 102,
+      "year": "2019",
+      "month": "01",
+      "day": "02",
+      "name": "Юнит + Рождестенская звезда",
+      "link": "https://yadi.sk/d/0sGBBita57LPSQ",
+      "date": "02.01.2019",
+      "common": false,
+      "coordinates": [
+        60.603152,
+        56.855344
+      ]
+    },
+    {
+      "id": 103,
+      "year": "2017",
+      "month": "03",
+      "day": "02",
+      "name": "Юный техник",
+      "link": "https://yadi.sk/d/D6p0BgQpx6rHUw",
+      "date": "02.03.2017",
+      "common": true,
+      "coordinates": [
+        60.608524,
+        56.905617
+      ]
+    },
+    {
+      "id": 104,
+      "year": "2019",
+      "month": "06",
+      "day": "24",
+      "name": "Нурали",
+      "link": "https://yadi.sk/a/9nG15V_ElDoufg",
+      "date": "24.06.2019",
+      "common": false,
+      "coordinates": [
+        59.633721,
+        54.772364
+      ]
+    },
+    {
+      "id": 105,
+      "year": "2019",
+      "month": "11",
+      "day": "05",
+      "name": "МАКШ",
+      "link": "https://yadi.sk/d/736ZSMY9cFh_tA",
+      "date": "05.11.2019",
+      "common": true,
+      "coordinates": [
+        55.968833,
+        54.661641
+      ]
+    },
+    {
+      "id": 106,
+      "year": "2019",
+      "month": "27",
+      "day": "08",
+      "name": "Мартьяново",
+      "link": "https://yadi.sk/a/rmJL71fNXeIQMg",
+      "date": "27.08.2019",
+      "common": false,
+      "coordinates": [
+        59.182038,
+        57.395779
+      ]
+    },
+    {
+      "id": 107,
+      "year": "2019",
+      "month": "24",
+      "day": "06",
+      "name": "Сплав Уфа",
+      "link": "https://yadi.sk/a/a43WUVwBCssVCQ",
+      "date": "24.06.2019",
+      "common": false,
+      "coordinates": [
+        57.785539,
+        56.61164
+      ]
+    },
+    {
+      "id": 108,
+      "year": "2020",
+      "month": "22",
+      "day": "05",
+      "name": "деревня 22.05",
+      "link": "https://yadi.sk/d/u0LbeUQvkuAypA",
+      "date": "22.05.2020",
+      "common": false,
+      "coordinates": [
+        59.329612,
+        57.228436
+      ]
+    },
+    {
+      "id": 109,
+      "year": "2020",
+      "month": "15",
+      "day": "05",
+      "name": "деревня 16.05",
+      "link": "https://yadi.sk/d/bDYG_GJ6Ug9otQ",
+      "date": "16.05.2020",
+      "common": false,
+      "coordinates": [
+        59.329612,
+        57.228436
+      ]
+    },
+    {
+      "id": 110,
+      "year": "2020",
+      "month": "09",
+      "day": "05",
+      "name": "деревня 09.05",
+      "link": "https://yadi.sk/d/hB8ovB7PvV1tKg",
+      "date": "09.05.2020",
+      "common": false,
+      "coordinates": [
+        59.329612,
+        57.228436
+      ]
+    },
+    {
+      "id": 111,
+      "year": "2020",
+      "month": "29",
+      "day": "03",
+      "name": "Тальков камень весна",
+      "link": "https://yadi.sk/d/UpJ25CNIlUzImQ",
+      "date": "29.03.2020",
+      "common": false,
+      "coordinates": [
+        60.7281,
+        56.492615
+      ]
+    },
+    {
+      "id": 112,
+      "year": "2020",
+      "month": "22",
+      "day": "03",
+      "name": "Дидинский тоннель",
+      "link": "https://yadi.sk/d/zP7OY_l4NSFzCg",
+      "date": "22.03.2020",
+      "common": false,
+      "coordinates": [
+        59.70795,
+        56.817992
+      ]
+    },
+    {
+      "id": 113,
+      "year": "2020",
+      "month": "09",
+      "day": "03",
+      "name": "Чертово городище",
+      "link": "https://yadi.sk/d/CmEa9dj9mIrTkA",
+      "date": "09.03.2020",
+      "common": false,
+      "coordinates": [
+        60.342443,
+        56.941821
+      ]
+    },
+    {
+      "id": 114,
+      "year": "2020",
+      "month": "08",
+      "day": "03",
+      "name": "8 марта",
+      "link": "https://yadi.sk/d/hG_O-79b3uNrkA",
+      "date": "08.03.2020",
+      "common": false,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 115,
+      "year": "2020",
+      "month": "02",
+      "day": "03",
+      "name": "Арамашево",
+      "link": "https://yadi.sk/d/Bx6NyTZyx-LWNw",
+      "date": "02.03.2020",
+      "common": false,
+      "coordinates": [
+        61.736409,
+        57.60597
+      ]
+    },
+    {
+      "id": 116,
+      "year": "2020",
+      "month": "20",
+      "day": "02",
+      "name": "WS - 2020",
+      "link": "https://yadi.sk/d/fDlFCMlvmohmBQ",
+      "date": "21.02.2020",
+      "common": false,
+      "coordinates": [
+        60.60075,
+        56.831828
+      ]
+    },
+    {
+      "id": 117,
+      "year": "2020",
+      "month": "21",
+      "day": "02",
+      "name": "23 февраля",
+      "link": "https://yadi.sk/d/gCCMB1opYDQxqQ",
+      "date": "21.02.2020",
+      "common": false,
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 118,
+      "year": "2020",
+      "month": "23",
+      "day": "01",
+      "name": "деревня - осень",
+      "link": "https://yadi.sk/d/R1tdJ6k9eA90Nw",
+      "date": "23.01.2020",
+      "common": false,
+      "coordinates": [
+        59.320771,
+        57.229946
+      ]
+    },
+    {
+      "id": 119,
+      "year": "2020",
+      "month": "07",
+      "day": "01",
+      "name": "озеро иткуль и шайтан-камень",
+      "link": "https://yadi.sk/d/485R_u1dlz4ycA",
+      "date": "07.01.2020",
+      "common": false,
+      "coordinates": [
+        60.527918,
+        56.123781
+      ]
+    },
+    {
+      "id": 120,
+      "year": "2020",
+      "month": "03",
+      "day": "01",
+      "name": "мартьяновская петля",
+      "link": "https://yadi.sk/d/5qRYFaje5PLEAg",
+      "date": "03.01.2020",
+      "common": false,
+      "coordinates": [
+        59.15928,
+        57.399402
+      ]
+    },
+    {
+      "id": 121,
+      "year": "2020",
+      "month": "06",
+      "day": "14",
+      "name": "деревня 14.06",
+      "link": "https://yadi.sk/d/jpBoj0QowdLOdw",
+      "date": "14.06.2020",
+      "common": false,
+      "coordinates": [
+        59.329612,
+        57.228436
+      ]
+    },
+    {
+      "id": 122,
+      "year": "2020",
+      "month": "05",
+      "day": "29",
+      "name": "деревня 29.05",
+      "link": "https://yadi.sk/d/_8k4WOKP6PxP2w",
+      "date": "29.05.2020",
+      "common": false,
+      "coordinates": [
+        59.329612,
+        57.228436
+      ]
+    },
+    {
+      "id": 123,
+      "year": "2020",
+      "month": "07",
+      "day": "14",
+      "name": "деревня 13.07",
+      "link": "https://yadi.sk/d/oayWj6BW7NcBMQ",
+      "date": "13.07.2020",
+      "common": false,
+      "coordinates": [
+        59.329612,
+        57.228436
+      ]
+    },
+    {
+      "id": 124,
+      "year": "2020",
+      "month": "07",
+      "day": "29",
+      "name": "деревня 25.07",
+      "link": "https://yadi.sk/d/6orxrvGIfwHzjw",
+      "date": "25.07.2020",
+      "common": false,
+      "coordinates": [
+        59.329612,
+        57.228436
+      ]
+    },
+    {
+      "id": 125,
+      "year": "2020",
+      "month": "08",
+      "day": "08",
+      "name": "деревня 08.08",
+      "link": "https://yadi.sk/d/eVEGPxJKWf9sdA",
+      "date": "08.08.2020",
+      "common": false,
+      "coordinates": [
+        59.329612,
+        57.228436
+      ]
+    },
+    {
+      "id": 126,
+      "year": "2020",
+      "month": "08",
+      "day": "08",
+      "name": "молнии 08.08",
+      "link": "https://yadi.sk/d/V1H6Zgk-zMRjoA",
+      "date": "08.08.2020",
+      "common": false,
+      "coordinates": [
+        59.329612,
+        57.228436
+      ]
+    },
+    {
+      "id": 133,
+      "year": "2021",
+      "month": "01",
+      "day": "05",
+      "name": "Качканар",
+      "link": "https://yadi.sk/d/4Ycf4NGNQ1itWQ",
+      "date": "05.01.2021",
+      "common": false,
+      "coordinates": [
+        59.373529,
+        58.767536
+      ]
+    },
+    {
+      "id": 140,
+      "year": "2021",
+      "month": "06",
+      "day": "03",
+      "name": "Санкт-Петербург",
+      "link": "https://disk.yandex.ru/d/5QXlJjQ20cgDpA",
+      "date": "03.06.2021",
+      "common": false,
+      "coordinates": [
+        30.310916,
+        59.948934
+      ]
+    },
+    {
+      "id": 141,
+      "year": "2021",
+      "month": "07",
+      "day": "28",
+      "name": "Башкирия",
+      "link": "https://disk.yandex.ru/d/8eqC8bKpC-3ofQ",
+      "date": "28.07.2021",
+      "common": false,
+      "coordinates": [
+        57.368686,
+        53.057157
+      ]
+    },
+    {
+      "id": 142,
+      "year": "2021",
+      "month": "08",
+      "day": "19",
+      "name": "Верхотурье",
+      "link": "https://disk.yandex.ru/d/I5dNwAbRG2Zb6w",
+      "date": "19.08.2021",
+      "common": false,
+      "coordinates": [
+        60.807137,
+        58.859956
+      ]
+    },
+    {
+      "id": 143,
+      "year": "2022",
+      "month": "04",
+      "day": "03",
+      "name": "Рускеала",
+      "link": "https://disk.yandex.ru/d/Ghgo_snY3zqfBg",
+      "date": "03.04.2022",
+      "common": false,
+      "coordinates": [
+        30.580591,
+        61.948391
+      ]
+    },
+    {
+      "id": 144,
+      "year": "2022",
+      "month": "04",
+      "day": "26",
+      "name": "Художественная гимнастика",
+      "link": "https://disk.yandex.ru/d/SmcjSQJTfPCPNg",
+      "date": "26.04.2022",
+      "common": false,
+      "coordinates": [
+        30.32407,
+        59.956836
+      ]
+    },
+    {
+      "id": 145,
+      "year": "2022",
+      "month": "05",
+      "day": "10",
+      "name": "Великий Новгород",
+      "link": "https://disk.yandex.ru/d/7WgghZyWigyS5g",
+      "date": "10.05.2022",
+      "common": false,
+      "coordinates": [
+        31.278093,
+        58.521767
+      ]
+    },
+    {
+      "id": 146,
+      "year": "2022",
+      "month": "05",
+      "day": "22",
+      "name": "Крепость Орешек",
+      "link": "https://disk.yandex.ru/d/fJhMREfa-yI_qA",
+      "date": "22.05.2022",
+      "common": false,
+      "coordinates": [
+        31.037367,
+        59.953811
+      ]
+    },
+    {
+      "id": 147,
+      "year": "2022",
+      "month": "01",
+      "day": "14",
+      "name": "Прогулка",
+      "link": "https://disk.yandex.ru/d/1yzQp1xm3njs9A",
+      "date": "14.01.2022",
+      "common": false,
+      "coordinates": [
+        60.348526,
+        56.965474
+      ]
+    },
+    {
+      "id": 148,
+      "year": "2022",
+      "month": "01",
+      "day": "31",
+      "name": "Шайтан-камень",
+      "link": "https://disk.yandex.ru/d/4TbH8SRjXe69QA",
+      "date": "31.01.2022",
+      "common": false,
+      "coordinates": [
+        61.001751,
+        57.377336
+      ]
+    },
+    {
+      "id": 149,
+      "year": "2022",
+      "month": "08",
+      "day": "31",
+      "name": "Лето 2022",
+      "link": "https://disk.yandex.ru/d/eXtAkTPuKRKojw",
+      "date": "31.08.2022",
+      "common": false,
+      "coordinates": [
+        29.85355,
+        59.899246
+      ]
+    },
+    {
+      "id": 150,
+      "year": "2023",
+      "month": "02",
+      "day": "24",
+      "name": "Шайтан камень 24.02.23",
+      "link": "https://disk.yandex.ru/d/frC7Nggu-bhOHA",
+      "date": "24.02.2023",
+      "common": false,
+      "coordinates": [
+        61.001751,
+        57.377336
+      ]
+    },
+    {
+      "id": 151,
+      "year": "2023",
+      "month": "04",
+      "day": "25",
+      "name": "Художественная гимнастика 23",
+      "link": "https://disk.yandex.ru/d/ANGNQNrqK5TjVQ",
+      "date": "25.04.2023",
+      "common": false,
+      "coordinates": [
+        30.32407,
+        59.956836
+      ]
+    },
+    {
+      "id": 152,
+      "year": "2023",
+      "month": "08",
+      "day": "13",
+      "name": "Звезды 13.08",
+      "link": "https://disk.yandex.ru/d/_1HWYxmCkI6P5w",
+      "date": "13.08.2023",
+      "common": false,
+      "coordinates": [
+        59.351419,
+        57.194014
+      ]
+    },
+    {
+      "id": 153,
+      "year": "2023",
+      "month": "07",
+      "day": "31",
+      "name": "Сплав Ай 23",
+      "link": "https://disk.yandex.ru/d/IhTiDxEDZ2JoMw",
+      "date": "31.07.2023",
+      "common": false,
+      "coordinates": [
+        58.69093,
+        55.152749
+      ]
+    },
+    {
+      "id": 154,
+      "year": "2023",
+      "month": "08",
+      "day": "20",
+      "name": "Деревня 20.08",
+      "link": "https://disk.yandex.ru/d/bV5R92t6nJ62jQ",
+      "date": "20.08.2023",
+      "common": false,
+      "coordinates": [
+        59.351419,
+        57.194014
+      ]
+    },
+    {
+      "id": 155,
+      "year": "2022",
+      "month": "01",
+      "day": "02",
+      "name": "Чертово 02.01.22",
+      "link": "https://disk.yandex.ru/d/CVbAeyRHQ4vswQ",
+      "date": "02.01.2022",
+      "common": false,
+      "coordinates": [
+        60.332761,
+        56.948921
+      ]
+    },
+    {
+      "id": 156,
+      "year": "2022",
+      "month": "01",
+      "day": "05",
+      "name": "Петрогром 05.01.22",
+      "link": "https://disk.yandex.ru/d/TJELWVZk-QFNGQ",
+      "date": "05.01.2022",
+      "common": false,
+      "coordinates": [
+        60.337427,
+        56.998018
+      ]
+    },
+    {
+      "id": 157,
+      "year": "2022",
+      "month": "01",
+      "day": "07",
+      "name": "Семь Братьев 07.01.22",
+      "link": "https://disk.yandex.ru/d/niPuPGFrRzZvhg",
+      "date": "07.01.2022",
+      "common": false,
+      "coordinates": [
+        60.231371,
+        57.24138
+      ]
+    },
+    {
+      "id": 158,
+      "year": "2024",
+      "month": "07",
+      "day": "14",
+      "name": "Сплав Усьва",
+      "link": "https://disk.yandex.ru/d/7seVHzEuBm5MRQ",
+      "date": "14.07.2024",
+      "common": false,
+      "coordinates": [
+        57.57389,
+        58.654944
+      ]
+    },
+    {
+      "id": 159,
+      "year": "2024",
+      "month": "09",
+      "day": "07",
+      "name": "Звезды 07.09.24",
+      "link": "https://disk.yandex.ru/d/YCTkv5VQ-q_N9g",
+      "date": "07.09.2024",
+      "common": false,
+      "coordinates": [
+        59.345525,
+        57.223674
+      ]
+    },
+    {
+      "id": 160,
+      "year": "2024",
+      "month": "09",
+      "day": "22",
+      "name": "Прогулка 22.09.24",
+      "link": "https://disk.yandex.ru/d/ZExqCcJLf3rIbw",
+      "date": "22.09.24",
+      "common": false,
+      "coordinates": [
+        60.33536,
+        56.953154
+      ]
+    },
+    {
+      "id": 161,
+      "year": "2024",
+      "month": "10",
+      "day": "06",
+      "name": "Деревня 06.10.24",
+      "link": "https://disk.yandex.ru/d/yZwfvSYv1TKIVw",
+      "date": "06.10.2024",
+      "common": false,
+      "coordinates": [
+        59.320771,
+        57.229946
+      ]
+    },
+    {
+      "id": 162,
+      "year": "2025",
+      "month": "01",
+      "day": "04",
+      "name": "Зюраткуль 2025",
+      "link": "https://disk.yandex.ru/d/EGtQE2j9Gmfw2A",
+      "date": "04.01.2025",
+      "common": false,
+      "coordinates": [
+        59.207628,
+        54.94351
+      ]
+    },
+    {
+      "id": 163,
+      "year": "2024",
+      "month": "12",
+      "day": "22",
+      "name": "Прогулка 22.12.24",
+      "link": "https://disk.yandex.ru/d/4_Q3PEK28yJm7Q",
+      "date": "22.12.24",
+      "common": false,
+      "coordinates": [
+        60.339495,
+        56.950443
+      ]
+    },
+    {
+      "id": 164,
+      "year": "2025",
+      "month": "02",
+      "day": "01",
+      "name": "Прогулка 01.02.25",
+      "link": "https://disk.yandex.ru/d/GLhf_0IianRSSg",
+      "date": "01.02.2025",
+      "common": false,
+      "coordinates": [
+        60.339495,
+        56.950443
+      ]
+    },
+    {
+      "year": "2023",
+      "month": "05",
+      "day": "01",
+      "name": "Щучье",
+      "link": "https://disk.yandex.ru/d/StDX85BKA1iLyg",
+      "date": "01.05.2023",
+      "common": false,
+      "coordinates": [
+        29.782699,
+        60.211890
+      ],
+      "id": 165
+    },
+    {
+      "year": "2023",
+      "month": "04",
+      "day": "18",
+      "name": "Петергоф",
+      "link": "https://disk.yandex.ru/d/woT5q89MfIO3Og",
+      "date": "18.04.2023",
+      "common": false,
+      "coordinates": [
+        29.909420,
+        59.885824
+      ],
+      "id": 166
+    },
+    {
+      "year": "2023",
+      "month": "04",
+      "day": "08",
+      "name": "Кронштадт",
+      "link": "https://disk.yandex.ru/d/dhFwJap8RQAOsg",
+      "date": "08.04.2023",
+      "common": false,
+      "coordinates": [
+        29.776467,
+        59.992127
+      ],
+      "id": 167
+    },
+    {
+      "year": "2023",
+      "month": "03",
+      "day": "30",
+      "name": "Токсово",
+      "link": "https://disk.yandex.ru/d/gCyq_ZjT3mrt9A",
+      "date": "30.03.2023",
+      "common": false,
+      "coordinates": [
+        30.463980,
+        60.150303
+      ],
+      "id": 168
+    },
+    {
+      "year": "2022",
+      "month": "05",
+      "day": "02",
+      "name": "Лопухинка",
+      "link": "https://disk.yandex.ru/d/G1UwzLN19aE7mw",
+      "date": "02.05.2022",
+      "common": false,
+      "coordinates": [
+        29.403349,
+        59.735310
+      ],
+      "id": 169
+    },
+    {
+      "year": "2022",
+      "month": "04",
+      "day": "30",
+      "name": "Котлин",
+      "link": "https://disk.yandex.ru/d/4zHWoHj078IlDg",
+      "date": "30.04.2022",
+      "common": false,
+      "coordinates": [
+        29.658233,
+        60.027470
+      ],
+      "id": 170
+    },
+    {
+      "year": "2022",
+      "month": "04",
+      "day": "22",
+      "name": "Петергоф",
+      "link": "https://disk.yandex.ru/d/3bqc7tvcDnmV6w",
+      "date": "22.04.2022",
+      "common": false,
+      "coordinates": [
+        29.907037,
+        59.886665
+      ],
+      "id": 171
+    },
+    {
+      "year": "2022",
+      "month": "04",
+      "day": "16",
+      "name": "Сиверский",
+      "link": "https://disk.yandex.ru/d/y80DfovK_y_MrA",
+      "date": "16.04.2022",
+      "common": false,
+      "coordinates": [
+        30.091398,
+        59.367335
+      ],
+      "id": 172
+    },
+    {
+      "year": "2022",
+      "month": "04",
+      "day": "10",
+      "name": "Тосненский водопад",
+      "link": "https://disk.yandex.ru/d/Ee2121sEPwbIQw",
+      "date": "10.04.2022",
+      "common": false,
+      "coordinates": [
+        30.808600,
+        59.644252
+      ],
+      "id": 173
+    },
+    {
+      "year": "2022",
+      "month": "02",
+      "day": "02",
+      "name": "Петергоф",
+      "link": "https://disk.yandex.ru/d/N3ICKmujtql75g",
+      "date": "02.02.2022",
+      "common": false,
+      "coordinates": [
+        29.915292,
+        59.886241
+      ],
+      "id": 174
+    },
+    {
+      "year": "2020",
+      "month": "09",
+      "day": "13",
+      "name": "Центр",
+      "link": "https://disk.yandex.ru/d/BrLtfdTZDkjojg",
+      "date": "13.09.2020",
+      "common": false,
+      "coordinates": [
+        30.304179,
+        59.937785
+      ],
+      "id": 175
+    },
+    {
+      "year": "2020",
+      "month": "09",
+      "day": "12",
+      "name": "Центр",
+      "link": "https://disk.yandex.ru/d/HEr5pO209s8uzA",
+      "date": "12.09.2020",
+      "common": false,
+      "coordinates": [
+        30.317184,
+        59.948932
+      ],
+      "id": 176
+    },
+    {
+      "year": "2021",
+      "month": "04",
+      "day": "11",
+      "name": "Лахта",
+      "link": "https://disk.yandex.ru/d/krOuquwSL2mz-g",
+      "date": "11.04.2021",
+      "common": false,
+      "coordinates": [
+        30.193525,
+        59.982067
+      ],
+      "id": 177
+    },
+    {
+      "year": "2020",
+      "month": "09",
+      "day": "20",
+      "name": "Петергоф",
+      "link": "https://disk.yandex.ru/d/1S0pydYQthtfeg",
+      "date": "20.09.2020",
+      "common": false,
+      "coordinates": [
+        29.910045,
+        59.886787 
+      ],
+      "id": 178
+    },
+    {
+      "year": "2021",
+      "month": "04",
+      "day": "03",
+      "name": "Дворцовая",
+      "link": "https://disk.yandex.ru/d/tm5eBvp_6H2JsA",
+      "date": "03.04.2021",
+      "common": false,
+      "coordinates": [
+        30.316286,
+        59.939606
+      ],
+      "id": 179
+    },
+    {
+      "year": "2021",
+      "month": "04",
+      "day": "04",
+      "name": "Искааиевский",
+      "link": "https://disk.yandex.ru/d/xRPGraZYl3TQEA",
+      "date": "04.04.2021",
+      "common": false,
+      "coordinates": [
+        30.303868,
+        59.935810
+      ],
+      "id": 180
+    },
+    {
+      "year": "2021",
+      "month": "04",
+      "day": "15",
+      "name": "Кронштадт",
+      "link": "https://disk.yandex.ru/d/RC8qkN2tb1LZ2Q",
+      "date": "15.04.2021",
+      "common": false,
+      "coordinates": [
+        29.776487,
+        59.991815
+      ],
+      "id": 181
+    },
+    {
+      "year": "2021",
+      "month": "04",
+      "day": "18",
+      "name": "Петропавловская",
+      "link": "https://disk.yandex.ru/d/hVRtz7PytyiwTw",
+      "date": "18.04.2021",
+      "common": false,
+      "coordinates": [
+        30.315822,
+        59.949675
+      ],
+      "id": 182
+    },
+    {
+      "year": "2021",
+      "month": "05",
+      "day": "09",
+      "name": "9 мая",
+      "link": "https://disk.yandex.ru/d/bOAXnzTpH4Ri4A",
+      "date": "09.05.2021",
+      "common": false,
+      "coordinates": [
+        30.315822,
+        59.949675
+      ],
+      "id": 183
+    },
+    {
+      "year": "2021",
+      "month": "05",
+      "day": "17",
+      "name": "Зенит Арена",
+      "link": "https://disk.yandex.ru/d/Xbb2UYVgDdhNAQ",
+      "date": "17.05.2021",
+      "common": false,
+      "coordinates": [
+        30.210922,
+        59.972888
+      ],
+      "id": 184
+    },
+    {
+      "year": "2021",
+      "month": "05",
+      "day": "25",
+      "name": "Верхнее Суздальское озеро",
+      "link": "https://disk.yandex.ru/d/dRY90IHL7q52Tw",
+      "date": "25.05.2021",
+      "common": false,
+      "coordinates": [
+        30.316076,
+        60.036738
+      ],
+      "id": 185
+    },
+    {
+      "year": "2021",
+      "month": "05",
+      "day": "30",
+      "name": "Зеркальный двор",
+      "link": "https://disk.yandex.ru/d/U6RsktE3ql7vJw",
+      "date": "30.05.2021",
+      "common": false,
+      "coordinates": [
+        30.303691,
+        59.932868
+      ],
+      "id": 186
+    },
+    {
+      "year": "2021",
+      "month": "05",
+      "day": "31",
+      "name": "Верхнее Суздальское озеро",
+      "link": "https://disk.yandex.ru/d/TafHYm_-8DMjaQ",
+      "date": "31.05.2021",
+      "common": false,
+      "coordinates": [
+        30.316076,
+        60.036738
+      ],
+      "id": 187
+    },
+    {
+      "year": "2021",
+      "month": "06",
+      "day": "01",
+      "name": "Западный Котлин",
+      "link": "https://disk.yandex.ru/d/4ifQBMKmYanFQg",
+      "date": "01.06.2021",
+      "common": false,
+      "coordinates": [
+        29.667979,
+        60.025679 
+      ],
+      "id": 188
+    },
+    {
+      "year": "2021",
+      "month": "06",
+      "day": "03",
+      "name": "Верхнее Суздальское озеро",
+      "link": "https://disk.yandex.ru/d/_0s5wuJknoGEsA",
+      "date": "03.06.2021",
+      "common": false,
+      "coordinates": [
+        30.316076,
+        60.036738
+      ],
+      "id": 189
+    },
+    {
+      "year": "2021",
+      "month": "06",
+      "day": "05",
+      "name": "Сестрорецк",
+      "link": "https://disk.yandex.ru/d/3cP3pOK2Xq5WwA",
+      "date": "05.06.2021",
+      "common": false,
+      "coordinates": [
+        29.939559,
+        60.095028
+      ],
+      "id": 190
+    },
+    {
+      "year": "2021",
+      "month": "06",
+      "day": "11",
+      "name": "Царское село",
+      "link": "https://disk.yandex.ru/d/yB3WyoRbFlnVkQ",
+      "date": "11.06.2021",
+      "common": false,
+      "coordinates": [
+        30.396891,
+        59.715597
+      ],
+      "id": 191
+    },
+    {
+      "year": "2021",
+      "month": "06",
+      "day": "12",
+      "name": "Сергиевка",
+      "link": "https://disk.yandex.ru/d/yzrkvUc5qYkqMA",
+      "date": "12.06.2021",
+      "common": false,
+      "coordinates": [
+        29.844811,
+        59.900774
+      ],
+      "id": 192
+    },
+    {
+      "year": "2021",
+      "month": "06",
+      "day": "13",
+      "name": "Разводные мосты",
+      "link": "https://disk.yandex.ru/d/dzfRzj_SFE08pA",
+      "date": "13.06.2021",
+      "common": false,
+      "coordinates": [
+        30.308656,
+        59.940808 
+      ],
+      "id": 193
+    },
+    {
+      "year": "2021",
+      "month": "09",
+      "day": "12",
+      "name": "Сергиевка",
+      "link": "https://disk.yandex.ru/d/llGru2OSPpHBQw",
+      "date": "12.09.2021",
+      "common": false,
+      "coordinates": [
+        29.844811,
+        59.900774
+      ],
+      "id": 194
+    },
+    {
+      "year": "2021",
+      "month": "10",
+      "day": "12",
+      "name": "Гряда Вярямянселькя",
+      "link": "https://disk.yandex.ru/d/l5UgcP3DQF0x1w",
+      "date": "12.10.2021",
+      "common": false,
+      "coordinates": [
+        30.070602,
+        60.627733
+      ],
+      "id": 195
+    },
+    {
+      "year": "2022",
+      "month": "05",
+      "day": "29",
+      "name": "Ладожское озеро",
+      "link": "https://disk.yandex.ru/d/c78V82UmbdH8_Q",
+      "date": "29.05.2022",
+      "common": false,
+      "coordinates": [
+        31.075358,
+        60.124296
+      ],
+      "id": 196
+    },
+    {
+      "year": "2023",
+      "month": "05",
+      "day": "08",
+      "name": "Выборг",
+      "link": "https://disk.yandex.ru/d/RFs8PE7mW5X8qQ",
+      "date": "08.05.2023",
+      "common": false,
+      "coordinates": [
+        31.075358,
+        60.124296
+      ],
+      "id": 197
+    },
+    {
+      "year": "2023",
+      "month": "05",
+      "day": "29",
+      "name": "Ладожское озеро",
+      "link": "https://disk.yandex.ru/d/4wj1l3c3zkkifw",
+      "date": "29.05.2023",
+      "common": false,
+      "coordinates": [
+        31.112606,
+        60.033468
+      ],
+      "id": 198
+    },
+    {
+      "year": "2023",
+      "month": "05",
+      "day": "30",
+      "name": "Токсово",
+      "link": "https://disk.yandex.ru/d/wbNpvfdMeGC5qw",
+      "date": "30.05.2023",
+      "common": false,
+      "coordinates": [
+        31.112606,
+        60.033468
+      ],
+      "id": 199
+    },
+    {
+      "year": "2023",
+      "month": "06",
+      "day": "02",
+      "name": "Сестрорецк",
+      "link": "https://disk.yandex.ru/d/BalWPpb3vH9I6g",
+      "date": "02.06.2023",
+      "common": false,
+      "coordinates": [
+        29.946132,
+        60.107580
+      ],
+      "id": 200
+    },
+    {
+      "year": "2023",
+      "month": "06",
+      "day": "03",
+      "name": "Комарово",
+      "link": "https://disk.yandex.ru/d/40RJLNlypbuj4w",
+      "date": "03.06.2023",
+      "common": false,
+      "coordinates": [
+        29.774623,
+        60.179753
+      ],
+      "id": 201
+    },
+    {
+      "year": "2023",
+      "month": "06",
+      "day": "05",
+      "name": "Линдуловская роща",
+      "link": "https://disk.yandex.ru/d/E3Lzdh1S9Hhyuw",
+      "date": "05.06.2023",
+      "common": false,
+      "coordinates": [
+        29.540715,
+        60.237438
+      ],
+      "id": 202
+    },
+    {
+      "year": "2023",
+      "month": "06",
+      "day": "06",
+      "name": "Пушкин",
+      "link": "https://disk.yandex.ru/d/ZXyt83-6RXtLxw",
+      "date": "06.06.2023",
+      "common": false,
+      "coordinates": [
+        30.393369,
+        59.723067
+      ],
+      "id": 203
+    },
+    {
+      "year": "2023",
+      "month": "06",
+      "day": "07",
+      "name": "Сестрорецкое болото",
+      "link": "https://disk.yandex.ru/d/xeqoTNx82ZQSjw",
+      "date": "07.06.2023",
+      "common": false,
+      "coordinates": [
+        30.007013,
+        60.120345
+      ],
+      "id": 204
+    },
+    {
+      "year": "2023",
+      "month": "09",
+      "day": "10",
+      "name": "Комарово",
+      "link": "https://disk.yandex.ru/d/U_uJYAx6K2tTfw",
+      "date": "10.09.2023",
+      "common": false,
+      "coordinates": [
+        29.776585,
+        60.181831
+      ],
+      "id": 205
+    },
+    {
+      "year": "2023",
+      "month": "09",
+      "day": "13",
+      "name": "Репино",
+      "link": "https://disk.yandex.ru/d/f8MHZpERCk5Wpg",
+      "date": "13.09.2023",
+      "common": false,
+      "coordinates": [
+        29.895116,
+        60.155799 
+      ],
+      "id": 206
+    },
+    {
+      "year": "2023",
+      "month": "09",
+      "day": "17",
+      "name": "Гатчина",
+      "link": "https://disk.yandex.ru/d/OY_ZtlnOAX7v0w",
+      "date": "17.09.2023",
+      "common": false,
+      "coordinates": [
+        30.113880,
+        59.564556
+      ],
+      "id": 207
+    },
+    {
+      "year": "2023",
+      "month": "09",
+      "day": "27",
+      "name": "Пушкин",
+      "link": "https://disk.yandex.ru/d/vy0N-zMriUVvAA",
+      "date": "27.09.2023",
+      "common": false,
+      "coordinates": [
+        30.395462,
+        59.725045
+      ],
+      "id": 208
+    },
+    {
+      "year": "2023",
+      "month": "09",
+      "day": "30",
+      "name": "Выборг",
+      "link": "https://disk.yandex.ru/d/WGk2e-uW4Iev-Q",
+      "date": "30.09.2023",
+      "common": false,
+      "coordinates": [
+        28.720786,
+        60.736998
+      ],
+      "id": 209
+    },
+    {
+      "year": "2023",
+      "month": "10",
+      "day": "01",
+      "name": "Кронштадт",
+      "link": "https://disk.yandex.ru/d/RkGrmQv2Nr_wYA",
+      "date": "01.10.2023",
+      "common": false,
+      "coordinates": [
+        29.673384,
+        60.023441
+      ],
+      "id": 210
+    },
+    {
+      "year": "2023",
+      "month": "10",
+      "day": "18",
+      "name": "Александрия",
+      "link": "https://disk.yandex.ru/d/jmbJrL-MH_y8eQ",
+      "date": "18.10.2023",
+      "common": false,
+      "coordinates": [
+        29.937091,
+        59.883895
+      ],
+      "id": 211
+    },
+    {
+      "year": "2023",
+      "month": "10",
+      "day": "21",
+      "name": "Ораниенбаум",
+      "link": "https://disk.yandex.ru/d/9s19We64Hb_C2w",
+      "date": "21.10.2023",
+      "common": false,
+      "coordinates": [
+        29.753031,
+        59.913803
+      ],
+      "id": 212
+    },
+    {
+      "year": "2023",
+      "month": "11",
+      "day": "07",
+      "name": "Выборг",
+      "link": "https://disk.yandex.ru/d/-4TSMDg0Hmf97g",
+      "date": "07.11.2023",
+      "common": false,
+      "coordinates": [
+        28.727390,
+        60.734836
+      ],
+      "id": 213
+    },
+    {
+      "year": "2023",
+      "month": "11",
+      "day": "11",
+      "name": "Форт Риф",
+      "link": "https://disk.yandex.ru/d/8HJ1Ldu5DSLEyA",
+      "date": "11.11.2023",
+      "common": false,
+      "coordinates": [
+        29.637606,
+        60.031907
+      ],
+      "id": 214
+    },
+    {
+      "year": "2024",
+      "month": "03",
+      "day": "08",
+      "name": "Комарово",
+      "link": "https://disk.yandex.ru/d/_C1n7xwaUpAE6Q",
+      "date": "08.03.2024",
+      "common": false,
+      "coordinates": [
+        29.794869,
+        60.179802
+      ],
+      "id": 215
+    },
+    {
+      "year": "2024",
+      "month": "03",
+      "day": "09",
+      "name": "Форт Риф",
+      "link": "https://disk.yandex.ru/d/neylTjCr43wMgQ",
+      "date": "09.03.2024",
+      "common": false,
+      "coordinates": [
+        29.637606,
+        60.031907
+      ],
+      "id": 216
+    },
+    {
+      "year": "2024",
+      "month": "05",
+      "day": "22",
+      "name": "Зенит Арена",
+      "link": "https://disk.yandex.ru/d/bHqTExeayIUGOQ",
+      "date": "22.05.2024",
+      "common": false,
+      "coordinates": [
+        30.210585,
+        59.973785
+      ],
+      "id": 217
+    },
+    {
+      "year": "2024",
+      "month": "05",
+      "day": "24",
+      "name": "Канонерка",
+      "link": "https://disk.yandex.ru/d/RXja0oKrKWxDOg",
+      "date": "24.05.2024",
+      "common": false,
+      "coordinates": [
+        30.209300,
+        59.899382
+      ],
+      "id": 218
+    },
+    {
+      "year": "2024",
+      "month": "06",
+      "day": "01",
+      "name": "Вальс буксиров",
+      "link": "https://disk.yandex.ru/d/BsSmNfHaYlLkBQ",
+      "date": "01.06.2024",
+      "common": false,
+      "coordinates": [
+        30.286849,
+        59.934620
+      ],
+      "id": 219
+    },
+    {
+      "year": "2024",
+      "month": "06",
+      "day": "02",
+      "name": "Орешек",
+      "link": "https://disk.yandex.ru/d/QFha2BQKNkGysw",
+      "date": "02.06.2024",
+      "common": false,
+      "coordinates": [
+        31.037503,
+        59.953477
+      ],
+      "id": 220
+    },
+    {
+      "year": "2024",
+      "month": "06",
+      "day": "11",
+      "name": "Репетиция Алые Паруса",
+      "link": "https://disk.yandex.ru/d/0pMNNV0eD_qehQ",
+      "date": "11.06.2024",
+      "common": false,
+      "coordinates": [
+        30.318329,
+        59.945905
+      ],
+      "id": 221
+    },
+    {
+      "year": "2024",
+      "month": "06",
+      "day": "12",
+      "name": "Репетиция Алые Паруса",
+      "link": "https://disk.yandex.ru/d/p3dcObgkIoMlbA",
+      "date": "12.06.2024",
+      "common": false,
+      "coordinates": [
+        30.318329,
+        59.945905
+      ],
+      "id": 222
+    },
+    {
+      "year": "2024",
+      "month": "06",
+      "day": "27",
+      "name": "Репетиция Алые Паруса",
+      "link": "https://disk.yandex.ru/d/64x7Dg5IsWT9Qw",
+      "date": "27.06.2024",
+      "common": false,
+      "coordinates": [
+        30.318329,
+        59.945905
+      ],
+      "id": 223
+    },
+    {
+      "year": "2024",
+      "month": "06",
+      "day": "16",
+      "name": "Сестрорецкое болото",
+      "link": "https://disk.yandex.ru/d/nEtEsEu2oHW_hQ",
+      "date": "16.06.2024",
+      "common": false,
+      "coordinates": [
+        30.005978,
+        60.125083
+      ],
+      "id": 224
+    },
+    {
+      "year": "2024",
+      "month": "06",
+      "day": "19",
+      "name": "Лахта",
+      "link": "https://disk.yandex.ru/d/ZkY3vC9_oJD_ag",
+      "date": "19.06.2024",
+      "common": false,
+      "coordinates": [
+        30.212566,
+        59.979020
+      ],
+      "id": 225
+    },
+    {
+      "year": "2024",
+      "month": "06",
+      "day": "21",
+      "name": "Центр",
+      "link": "https://disk.yandex.ru/d/5DRwALwuXgIE4Q",
+      "date": "21.06.2024",
+      "common": false,
+      "coordinates": [
+        30.342784,
+        59.938009
+      ],
+      "id": 226
+    },
+    {
+      "year": "2024",
+      "month": "06",
+      "day": "22",
+      "name": "Выборг",
+      "link": "https://disk.yandex.ru/d/_bXsX-_ZHk-tEQ",
+      "date": "22.06.2024",
+      "common": false,
+      "coordinates": [
+        28.728836,
+        60.716046
+      ],
+      "id": 227
+    },
+    {
+      "year": "2024",
+      "month": "06",
+      "day": "30",
+      "name": "Александрия",
+      "link": "https://disk.yandex.ru/d/XO2b6170phfDmQ",
+      "date": "30.06.2024",
+      "common": false,
+      "coordinates": [
+        29.940270,
+        59.885039
+      ],
+      "id": 228
+    },
+    {
+      "year": "2024",
+      "month": "07",
+      "day": "04",
+      "name": "Сестрорецк",
+      "link": "https://disk.yandex.ru/d/UurqNFG0hmqb4g",
+      "date": "04.07.2024",
+      "common": false,
+      "coordinates": [
+        29.922856,
+        60.090684
+      ],
+      "id": 229
+    },
+    {
+      "year": "2024",
+      "month": "07",
+      "day": "06",
+      "name": "Город",
+      "link": "https://disk.yandex.ru/d/p6-9Li0ZCSU5cA",
+      "date": "06.07.2024",
+      "common": false,
+      "coordinates": [
+        30.274185,
+        59.978173
+      ],
+      "id": 230
+    },
+    {
+      "year": "2025",
+      "month": "06",
+      "day": "09",
+      "name": "Июнь 2025",
+      "link": "https://disk.yandex.ru/d/ONs8CuylQBJZsQ",
+      "date": "09.06.2025",
+      "common": false,
+      "coordinates": [
+        59.354058,
+        57.191137
+      ],
+      "id": 231
+    },
+    {
+      "year": "2025",
+      "month": "07",
+      "day": "15",
+      "name": "Пермь 2025",
+      "link": "https://disk.yandex.ru/d/BxZN2Pfka0027Q",
+      "date": "09.06.2025",
+      "common": false,
+      "coordinates": [
+        57.100086,
+        60.481654
+      ],
+      "id": 232
+    },
+    {
+      "year": "2025",
+      "month": "02",
+      "day": "09",
+      "name": "Тальков камень 2025",
+      "link": "https://disk.yandex.ru/d/BxZN2Pfka0027Q",
+      "date": "09.02.2025",
+      "common": false,
+      "coordinates": [
+        60.727916,
+        56.491907 
+      ],
+      "id": 233
+    },
+    {
+      "year": "2025",
+      "month": "11",
+      "day": "03",
+      "name": "Город",
+      "link": "https://disk.yandex.ru/d/-zvt0GOj4mx0Gw",
+      "date": "03.11.2025",
+      "common": false,
+      "coordinates": [
+        60.599463,
+        56.844558 
+      ],
+      "id": 234
+    },
+    {
+      "year": "2026",
+      "month": "01",
+      "day": "02",
+      "name": "Ревун",
+      "link": "https://disk.yandex.ru/d/ofiYJD-MdPWNpw",
+      "date": "02.01.2026",
+      "common": false,
+      "coordinates": [
+        61.602589,
+        56.433653
+      ],
+      "id": 235
+    },
+    {
+      "year": "2026",
+      "month": "01",
+      "day": "06",
+      "name": "Азов",
+      "link": "https://disk.yandex.ru/d/ZAO6AATpP3Zm8g",
+      "date": "06.01.2026",
+      "common": false,
+      "coordinates": [
+        60.087935,
+        56.476446
+      ],
+      "id": 236
+    },
+    {
+      "year": "2026",
+      "month": "01",
+      "day": "09",
+      "name": "Малые Черти",
+      "link": "https://disk.yandex.ru/d/SdPtzmx8u143Aw",
+      "date": "09.01.2026",
+      "common": false,
+      "coordinates": [
+        60.340344,
+        56.950194 
+      ],
+      "id": 237
+    }
+  ],
+  "video": [
+    {
+      "id": 1,
+      "title": "Уралкабель",
+      "date": "2018-10-24 20:00:00 +0500",
+      "number": 1,
+      "video": "zOLVEAS030o",
+      "categories": "video",
+      "coordinates": [
+        60.567468,
+        56.838055
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Уралкабель 2",
+      "date": "2019-03-12 20:00:00 +0500",
+      "number": 2,
+      "video": "j8gCqOxwGkI",
+      "categories": "video",
+      "coordinates": [
+        60.567468,
+        56.838055
+      ]
+    },
+    {
+      "id": 3,
+      "title": "электроникум",
+      "date": "2019-04-10 20:00:00 +0500",
+      "number": 3,
+      "video": "_E2ZngNB-o4",
+      "categories": "video",
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Новогоднее",
+      "date": "2019-12-31 20:00:00 +0500",
+      "number": 4,
+      "video": "vBpZhhD7sJQ",
+      "categories": "video",
+      "coordinates": [
+        60.667455,
+        56.916992
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Иткуль",
+      "date": "2020-01-07 20:00:00 +0500",
+      "number": 6,
+      "video": "VI7l4mLgvfU",
+      "categories": "ural",
+      "coordinates": [
+        60.527492,
+        56.117965
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Современный брадобрей",
+      "date": "2020-02-11 20:00:00 +0500",
+      "number": 7,
+      "video": "9-a4pC5blsg",
+      "categories": "video",
+      "coordinates": [
+        60.619385,
+        56.821919
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Дидинский тоннель",
+      "date": "2020-03-22 20:00:00 +0500",
+      "number": 12,
+      "video": "BnGlmgTHWYo",
+      "categories": "ural",
+      "coordinates": [
+        59.713389,
+        56.818074
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Тальков камень",
+      "date": "2020-03-29 20:00:00 +0500",
+      "number": 13,
+      "video": "1LF6cIxPHGA",
+      "categories": "ural",
+      "coordinates": [
+        60.730763,
+        56.492278
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Чертово городище",
+      "date": "2020-03-11 20:00:00 +0500",
+      "number": 11,
+      "video": "0mr372Q7XM8",
+      "categories": "ural",
+      "coordinates": [
+        60.341565,
+        56.94044
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Последний звонок - 9в",
+      "date": "2020-07-17 20:00:00 +0500",
+      "number": 14,
+      "video": "ZvJDZ7s1GtY",
+      "categories": "video",
+      "coordinates": [
+        60.609595,
+        57.083198
+      ]
+    },
+    {
+      "id": 11,
+      "title": "worldskills-russia южно-сахалинск",
+      "date": "2020-09-04 20:00:00 +0500",
+      "number": 15,
+      "video": "4PS-sbkfXoM",
+      "categories": "video",
+      "coordinates": [
+        142.721991,
+        46.96134
+      ]
+    },
+    {
+      "id": 12,
+      "title": "новогодний квн",
+      "date": "2020-09-06 20:00:00 +0500",
+      "number": 17,
+      "video": "xuz9VVJf4g8",
+      "categories": "video",
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    },
+    {
+      "id": 13,
+      "title": "пятерочка - тест-драйв урфу",
+      "date": "2020-09-17 20:00:00 +0500",
+      "number": 18,
+      "video": "RqwSwLruHbI",
+      "categories": "video",
+      "coordinates": [
+        60.617597,
+        56.903951
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+---
+layout: default
+---
+<!-- ШАПКА -->
+<header class="site-header">
+  <div class="header-inner">
+    <div class="logo">
+      <a href="/" class="navbar-brand">IKOVYLYAEV</a>
+    </div>
+    <nav class="main-nav">
+      <ul>
+        <li><a href="/" class="nav-link active">Главная</a></li>
+        <li><a href="/video" class="nav-link">Видео</a></li>
+        <li><a href="/photo" class="nav-link">Фото</a></li>
+        <li><a href="/about" class="nav-link">О проекте</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<!-- Две колонки: карта и карточки -->
+<div class="main-wrapper">
+  <div class="map-column">
+    <div id="map"></div>
+  </div>
+  <div class="cards-column">
+    <div class="media-list" id="media-list"></div>
+  </div>
+</div>
+
+<!-- Leaflet CDN -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  let map;
+  if (window.innerWidth >= 992) {
+    map = L.map('map', { zoomControl: false }).setView([56.8389, 60.6057], 12);
+    L.control.zoom({ position: 'bottomright' }).addTo(map);
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+      attribution: '',
+      subdomains: 'abcd',
+      maxZoom: 19
+    }).addTo(map);
+  }
+
+  fetch('/js/data.json')
+    .then(response => response.json())
+    .then(data => {
+      const mediaList = document.getElementById('media-list');
+      const allMedia = [
+        ...data.video.map(item => ({ ...item, type: 'video' })),
+        ...data.photo.map(item => ({ ...item, type: 'photo' }))
+      ];
+      allMedia.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+
+      mediaList.innerHTML = allMedia.map(item => {
+        if (item.type === 'video') {
+          return `
+            <a href='https://www.youtube.com/watch?v=${item.video}' target="_blank" class='media-card' data-video-number='${item.number}'>
+              <img src="/img/title/${item.number}.png" alt="${item.title} - ikovylyaev">
+              <div class="media-card-info">
+                <div class="media-title">${item.title}</div>
+                <div class="media-date">${(item.date||'').split(' ')[0].split('-').reverse().join('.')}</div>
+              </div>
+            </a>`;
+        } else {
+          return `
+            <a href='${item.link}' target="_blank" class='media-card' data-photo-id='${item.id}'>
+              <img src="/img/photo/${item.id}.png" alt="${item.name} - ikovylyaev">
+              <div class="media-card-info">
+                <div class="media-title">${item.name}</div>
+                <div class="media-date">${item.date}</div>
+              </div>
+            </a>`;
+        }
+      }).join('');
+
+      if (map) {
+        const markerGroups = {};
+        allMedia.forEach(item => {
+          if (Array.isArray(item.coordinates) && item.coordinates.length === 2) {
+            const key = item.coordinates.join(',');
+            if (!markerGroups[key]) markerGroups[key] = [];
+            markerGroups[key].push(item);
+          }
+        });
+
+        function getCardSelector(item) {
+          return item.type === 'photo' ? `[data-photo-id='${item.id}']` : `[data-video-number='${item.number}']`;
+        }
+
+        Object.entries(markerGroups).forEach(([key, items]) => {
+          const [lng, lat] = key.split(',').map(Number);
+          if (items.length === 1) {
+            const item = items[0];
+            const imgSrc = item.type === 'photo' ? `/img/photo/${item.id}.webp` : `/img/title/${item.number}.webp`;
+            const icon = L.divIcon({
+              className: 'custom-marker',
+              html: `<div class='marker-img-wrap' style="background-image:url('${imgSrc}')"></div>`
+            });
+            const marker = L.marker([lat, lng], { icon }).addTo(map);
+            marker.on('click', () => {
+              const card = document.querySelector(getCardSelector(item));
+              if (card) {
+                card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                document.querySelectorAll('.media-card.selected').forEach(el => el.classList.remove('selected'));
+                card.classList.add('selected');
+              }
+            });
+          } else {
+            const icon = L.divIcon({
+              className: 'custom-marker cluster-marker',
+              html: `<div class='cluster-count-only'>${items.length}</div>`
+            });
+            const marker = L.marker([lat, lng], { icon }).addTo(map);
+            let tempMarkers = [];
+            let fanOpen = false;
+            let closeTimeout = null;
+
+            function openFan() {
+              if (fanOpen) return;
+              fanOpen = true;
+              const center = map.latLngToContainerPoint([lat, lng]);
+              const angleStep = (2 * Math.PI) / items.length;
+              const radius = 40;
+              for (let i = 0; i < items.length; i++) {
+                const angle = i * angleStep;
+                const pt = center.add([radius * Math.cos(angle), radius * Math.sin(angle)]);
+                const fanLatLng = map.containerPointToLatLng(pt);
+                const item = items[i];
+                const imgSrc = item.type === 'photo' ? `/img/photo/${item.id}.webp` : `/img/title/${item.number}.webp`;
+                const icon = L.divIcon({
+                  className: 'custom-marker fan-marker',
+                  html: `<div class='marker-img-wrap' style="background-image:url('${imgSrc}')"></div>`
+                });
+                const tempMarker = L.marker(fanLatLng, { icon }).addTo(map);
+                tempMarker.on('click', () => {
+                  const card = document.querySelector(getCardSelector(item));
+                  if (card) {
+                    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    document.querySelectorAll('.media-card.selected').forEach(el => el.classList.remove('selected'));
+                    card.classList.add('selected');
+                  }
+                });
+                tempMarker.on('mouseover', () => {
+                  if (closeTimeout) clearTimeout(closeTimeout);
+                });
+                tempMarker.on('mouseout', () => {
+                  closeTimeout = setTimeout(closeFan, 100);
+                });
+                tempMarkers.push(tempMarker);
+              }
+            }
+
+            function closeFan() {
+              if (!fanOpen) return;
+              fanOpen = false;
+              tempMarkers.forEach(m => map.removeLayer(m));
+              tempMarkers = [];
+            }
+
+            marker.on('mouseover', () => {
+              if (closeTimeout) clearTimeout(closeTimeout);
+              openFan();
+            });
+            marker.on('mouseout', () => {
+              closeTimeout = setTimeout(closeFan, 100);
+            });
+          }
+        });
+      }
+    });
+});
+</script>

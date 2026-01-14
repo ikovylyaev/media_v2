@@ -113,11 +113,13 @@ title: kovylyaevmedia repo
           const title = item.type === 'photo' ? item.name : item.title;
           const date = item.date;
           const imgSrc = item.type === 'photo' ? `/img/photo/${item.id}.png` : `/img/title/${item.number}.png`;
+          const link = item.type === 'photo' ? item.link : item.video; 
 
           markerCard.innerHTML = `
             <img src="${imgSrc}" alt="${title}">
             <div class="media-title">${title}</div>
             <div class="media-date">${date}</div>
+            <a href="${link}" target="blank" class="link">Посмотреть</a>
           `;
 
           // Позиционирование карточки рядом с маркером
